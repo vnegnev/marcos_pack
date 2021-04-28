@@ -1,0 +1,12 @@
+[submodule "marcos_client"]
+	path = marcos_client
+	url = git@github.com:vnegnev/marcos_client.git
+[submodule "marcos_extras"]
+	path = marcos_extras
+	url = git@github.com:vnegnev/marcos_extras.git
+[submodule "flocra"]
+	path = flocra
+	url = git@github.com:vnegnev/flocra.git
+[submodule "flocra-pulseq"]
+	path = flocra-pulseq
+	url = git@github.com:lcbMGH/flocra-pulseq.git
