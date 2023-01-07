@@ -1,15 +1,16 @@
 [submodule "marcos_client"]
 	path = marcos_client
 	url = https://github.com/vnegnev/marcos_client.git
+	branch = marcos_pack
 [submodule "marcos_extras"]
 	path = marcos_extras
 	url = https://github.com/vnegnev/marcos_extras.git
-[submodule "flocra"]
-	path = flocra
-	url = https://github.com/vnegnev/flocra.git
-[submodule "flocra-pulseq"]
-	path = flocra-pulseq
-	url = https://github.com/lcbMGH/flocra-pulseq.git
+	branch = marcos_pack
 [submodule "marcos_server"]
 	path = marcos_server
 	url = https://github.com/vnegnev/marcos_server.git
+	branch = marcos_pack
+[submodule "marga"]
+	path = marga
+	url = https://github.com/vnegnev/marga.git
+	branch = marcos_pack
