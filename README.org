@@ -1,0 +1,8 @@
+#+TITLE: MaRCoS Pack
+
+Convenience repo for MaRCoS, with submodules for each part of the system.
+
+To initialise submodules, run
+#+begin_src sh
+  git submodule update --init --recursive
+#+end_src
