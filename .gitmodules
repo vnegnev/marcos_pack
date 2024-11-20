@@ -14,3 +14,6 @@
 	path = marga
 	url = https://github.com/vnegnev/marga.git
 	branch = marcos_pack
+[submodule "marcos_fpga"]
+	path = marcos_fpga
+	url = ssh://git@github.com/vnegnev/marcos_fpga
