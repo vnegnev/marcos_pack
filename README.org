@@ -1,5 +1,7 @@
 #+TITLE: MaRCoS Pack
 
+[[https://github.com/vnegnev/marcos_pack/actions/workflows/test-marga-model.yml/badge.svg]]
+
 Convenience repo for MaRCoS, with submodules for each part of the system.
 
 To initialise submodules, run
