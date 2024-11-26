@@ -1,5 +1,7 @@
 name: test-marga-model
 
+run-name: Compile MaRGA + run marcos_client unit tests
+
 # run-name: ${{ github.actor }} is testing MaRCoS client
 
 on: [push]
@@ -8,6 +10,11 @@ jobs:
   unittest:
     runs-on: ubuntu-latest
     steps:
+
+    # - name: Install Python + packages
+    #   uses: actions/setup-python
+    #   with:
+    #     python-version: '3.X'
 
     - name: Install Python packages
       run: |
