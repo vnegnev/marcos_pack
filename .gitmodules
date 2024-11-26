@@ -16,4 +16,4 @@
 	branch = marcos_pack
 [submodule "marcos_fpga"]
 	path = marcos_fpga
-	url = ssh://git@github.com/vnegnev/marcos_fpga
+	url = https://github.com/vnegnev/marcos_fpga.git
